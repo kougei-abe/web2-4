@@ -1,10 +1,22 @@
 @charset "UTF-8";
 body{
-  background-color: $D0E0C0;
+  background-color: #D0E0C0;
 }
 
 #main{
+  width: 798px;
+  margin: 40px auto;
   padding: 40px 80px;
-  border: green 1px solid;
-  background-color: white;
+  border: #008000 1px solid;
+  background-color: #ffffff;
+}
+
+.photo{
+  float: left;
+  margin-right: 30px;
+}
+.curry_picture:after{
+  content: "";
+  clear: both;
+  display: block;
 }
