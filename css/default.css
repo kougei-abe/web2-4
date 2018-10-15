@@ -60,3 +60,11 @@ dt{
 .btn-reset{
   background-color: #f08080;
 }
+
+#ingredient{
+  border: 2px solid #f08080;
+}
+
+th, td{
+  border: 1px solid #f08080;
+}
