@@ -67,6 +67,17 @@ dt{
   border-collapse: collapse;
 }
 
-th, td{
+th{
   border: 1px solid #f08080;
+  background-color: #ffb6c1;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+td{
+  border: 1px solid #f08080;
+  padding: 5px;
+  width: 80px;
+  text-align: right;
 }
