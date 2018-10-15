@@ -62,10 +62,11 @@ dt{
 }
 
 #ingredient{
+  clear: left;
   border: 2px solid #f08080;
+  border-collapse: collapse;
 }
 
 th, td{
   border: 1px solid #f08080;
-  clear: left;
 }
