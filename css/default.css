@@ -67,4 +67,5 @@ dt{
 
 th, td{
   border: 1px solid #f08080;
+  clear: left;
 }
