@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 body{
   background-color: #D0E0C0;
 }
@@ -15,8 +16,19 @@ body{
   float: left;
   margin-right: 30px;
 }
+
 .curry_picture:after{
   content: "";
   clear: both;
   display: block;
+}
+
+.explanation{
+    float: left;
+}
+
+dt{
+    clear: left;
+    float: left;
+    font-weight: bold;
 }
